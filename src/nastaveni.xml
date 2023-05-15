@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<nastaveni>
+  <zaznam klic="MVCRSbirkaURL" hodnota="http://aplikace.mvcr.cz/sbirka-zakonu/SearchResult.aspx?q={0}&amp;typeLaw=zakon&amp;what=Rok&amp;stranka={1}" />
+  <zaznam klic="MVCRSbirkaURLPrefix" hodnota="http://aplikace.mvcr.cz/sbirka-zakonu/" />
+  <zaznam klic="MVCRSbirkaURLRegex" hodnota="^ViewFile\.aspx\?type=c&amp;id=[0-9]{1,10}$" />
+  <zaznam klic="AdresarSbirka" hodnota="Sbirka" />
+  <zaznam klic="AdresarVstup" hodnota="Vstup" />
+  <zaznam klic="AdresarVystup" hodnota="Vystup" />
+  <zaznam klic="PosledniCastkaRocnik" hodnota="1993" />
+  <zaznam klic="PosledniCastkaCislo" hodnota="0" />
+</nastaveni>
